@@ -1,0 +1,29 @@
+20240216	21:16:49	d5d1332e-7565-40d3-b282-ff135088f97f	Error: Not allowed by CORS
+20240216	23:50:57	01c84d6e-d978-434a-bc79-221ac92223f5	SyntaxError: Expected double-quoted property name in JSON at position 20
+20240216	23:55:53	8f67199c-0128-4c8e-af8d-292202db91da	SyntaxError: Expected double-quoted property name in JSON at position 9
+20240217	02:19:03	0754c888-faea-458b-9226-1caf88dbc2e8	ReferenceError: employees is not defined
+20240217	02:19:20	29370ec8-a4e9-4f8d-9197-8e06caa4a33c	ReferenceError: employees is not defined
+20240217	02:21:16	68dbaab9-7216-460f-ba88-7e8172a1421e	ReferenceError: employees is not defined
+20240217	02:21:44	9b03bf7f-43bc-4993-bbea-396665899cd1	ReferenceError: employees is not defined
+20240217	02:23:28	650bc09d-24a7-4eb4-bf8d-a97df0fbd754	ReferenceError: employees is not defined
+20240217	02:24:08	b1680314-5a2c-460d-a62d-cce75a2b10f8	ReferenceError: employees is not defined
+20240217	02:28:45	3eb79aa9-d757-4c18-8434-97dec8027c4b	ReferenceError: employees is not defined
+20240217	02:32:18	8ddc7bf3-fc6e-4ad7-9701-9007342f7905	ReferenceError: employees is not defined
+20240217	02:35:14	f61380ef-e86a-464d-94a9-08fd04874bfb	ReferenceError: employees is not defined
+20240217	02:35:48	d8aa2792-c417-4db6-992b-e0dcaf91551d	ReferenceError: employees is not defined
+20240217	02:35:50	40f2f500-91c2-4043-9619-0d9654c119cd	ReferenceError: employees is not defined
+20240217	02:36:01	ea5a05a9-e0d4-4abc-ba46-ec3d1cf6794a	ReferenceError: employees is not defined
+20240217	02:38:11	8dc87000-9d1a-4b29-a856-07b5e10288d7	SyntaxError: Expected ',' or '}' after property value in JSON at position 9
+20240217	02:38:45	5c0e4123-9f8e-4723-8486-068f823fd324	SyntaxError: Expected ',' or '}' after property value in JSON at position 9
+20240217	02:43:38	df6670de-d461-4ce7-aa2e-f94e160cdc64	SyntaxError: Unexpected non-whitespace character after JSON at position 60
+20240217	02:43:49	c4801511-adb6-4dd5-b87c-b63f18cce8d3	SyntaxError: Unexpected non-whitespace character after JSON at position 55
+20240218	18:44:23	f34e5dae-1ac7-42b6-851c-efa21c58d9ae	TypeError: authHeader?.starstWith is not a function
+20240218	18:44:44	962c4cba-7cca-486f-a5e4-c817a1be0b5d	TypeError: authHeader?.starstWith is not a function
+20240218	18:45:01	4e9c4fc1-f8b0-46c6-8f1c-f1586961a8cf	TypeError: authHeader?.starstWith is not a function
+20240218	18:45:20	27533aec-628e-4c0e-ba00-d6ef6f842c75	TypeError: authHeader?.starstWith is not a function
+20240218	18:49:18	246e9fe6-1437-4217-9c2e-f53f15ec619f	TypeError: res.sendSatus is not a function
+20240218	18:50:31	d0eabc5f-bc4b-4867-b742-4a1d6d606c5a	TypeError: res.sendSatus is not a function
+20240218	18:50:34	a10ec40d-7862-4045-ac41-df3b220bc5e4	TypeError: res.sendSatus is not a function
+20240218	18:50:37	b2457c66-7387-4bd9-8adf-052c60ed8986	TypeError: res.sendSatus is not a function
+20240218	18:51:12	b5eb75ad-ac2a-4ea3-aae8-710f1b3aaf73	TypeError: res.sendSatus is not a function
+20240218	18:52:19	8a685883-ed5d-48cb-b169-72da336308ef	TypeError: res.sendSatus is not a function
